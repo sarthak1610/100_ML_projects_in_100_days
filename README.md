@@ -7,7 +7,8 @@ Welcome to my 100 Days of Machine Learning Challenge! This repository is dedicat
 I will update this section daily with a summary of what I worked on, along with links to the code and any related documentation:
 
   * Day 1 : Disease prediction using Machine Learning
-  * Day 2 : 
+  * Day 2 : Autism Prediction Using Machine Learning
+  * Day 3 : 
 
 ## Project Overview
 Each day’s project will be organized in its own folder, containing:
